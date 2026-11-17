@@ -1,6 +1,8 @@
 package co.edu.uniquindio.universidad.modelo;
 
 
+import co.edu.uniquindio.universidad.util.Validar;
+
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
