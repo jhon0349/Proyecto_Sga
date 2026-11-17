@@ -7,10 +7,10 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.GridPane;
 import javafx.stage.FileChooser;
-import sga.modelo.*;
-import sga.servicio.ServicioReportes;
-import sga.servicio.Sistema;
-import sga.util.Formato;
+import co.edu.uniquindio.universidad.modelo.*;
+import co.edu.uniquindio.universidad.servicio.ServicioReportes;
+import co.edu.uniquindio.universidad.servicio.Sistema;
+import co.edu.uniquindio.universidad.util.Formato;
 
 import java.io.File;
 import java.time.LocalDate;

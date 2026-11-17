@@ -1,6 +1,6 @@
 package co.edu.uniquindio.universidad.util;
 
-import sga.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
 
 public final class Validar {
     private Validar() {}
