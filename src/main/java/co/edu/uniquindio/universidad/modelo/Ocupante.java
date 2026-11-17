@@ -1,8 +1,8 @@
 package co.edu.uniquindio.universidad.modelo;
 
 
-import sga.util.Formato;
-import sga.util.Validar;
+import co.edu.uniquindio.universidad.util.Formato;
+import co.edu.uniquindio.universidad.util.Validar;
 
 import java.io.Serializable;
 import java.time.LocalDate;
