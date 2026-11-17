@@ -5,7 +5,7 @@ import javafx.collections.ObservableList;
 import javafx.scene.control.*;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
-import sga.modelo.Ocupante;
+import co.edu.uniquindio.universidad.modelo.Ocupante;
 
 import java.util.ArrayList;
 import java.util.List;
