@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import co.edu.uniquindio.universidad.modelo.EstadoReserva;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static sga.modelo.EstadoReserva.*;
+import static co.edu.uniquindio.universidad.modelo.EstadoReserva.*;
 
 class EstadoReservaTest {
     @Test void pendientePuedeConfirmarseOCancelarse() {
