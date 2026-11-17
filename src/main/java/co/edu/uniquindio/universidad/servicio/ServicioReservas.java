@@ -1,9 +1,9 @@
 package co.edu.uniquindio.universidad.servicio;
 
-import sga.excepciones.*;
-import sga.modelo.*;
-import sga.util.Reloj;
-import sga.util.Validar;
+import co.edu.uniquindio.universidad.excepciones.*;
+import co.edu.uniquindio.universidad.modelo.*;
+import co.edu.uniquindio.universidad.util.Reloj;
+import co.edu.uniquindio.universidad.util.Validar;
 
 import java.time.Duration;
 import java.time.LocalDate;
