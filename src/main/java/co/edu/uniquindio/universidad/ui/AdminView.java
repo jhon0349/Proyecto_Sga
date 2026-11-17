@@ -201,7 +201,7 @@ public class AdminView extends TabPane {
         TextField motivo = new TextField();
         motivo.setPromptText("Motivo");
         Button agregar = Ui.boton("Registrar bloqueo", () -> {
-            if (apto.getValue() == null) throw new sga.excepciones.ReglaNegocioException("Seleccione el apartamento");
+            if (apto.getValue() == null) throw new co.edu.uniquindio.universidad.excepciones.ReglaNegocioException("Seleccione el apartamento");
             s.inventario().bloquear(apto.getValue(), Ui.fecha(desde, "fecha de inicio"), Ui.fecha(hasta, "fecha de fin"), motivo.getText());
             refrescar.run();
         });
