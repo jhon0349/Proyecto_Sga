@@ -1,6 +1,6 @@
 package co.edu.uniquindio.universidad.servicio;
 
-import sga.modelo.Alojamiento;
+import co.edu.uniquindio.universidad.modelo.Alojamiento;
 
 import java.io.*;
 import java.nio.file.Files;
