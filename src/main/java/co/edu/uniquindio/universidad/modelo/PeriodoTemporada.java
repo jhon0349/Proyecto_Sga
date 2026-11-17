@@ -1,7 +1,7 @@
 package co.edu.uniquindio.universidad.modelo;
 
 
-import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.modelo.excepciones.ReglaNegocioException;
 import co.edu.uniquindio.universidad.util.Validar;
 
 import java.io.Serializable;
