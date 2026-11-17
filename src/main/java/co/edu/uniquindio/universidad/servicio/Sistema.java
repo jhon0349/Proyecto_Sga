@@ -1,9 +1,9 @@
 package co.edu.uniquindio.universidad.servicio;
 
-import sga.modelo.Alojamiento;
-import sga.modelo.DatosIniciales;
-import sga.util.Reloj;
-import sga.util.RelojSistema;
+import co.edu.uniquindio.universidad.modelo.Alojamiento;
+import co.edu.uniquindio.universidad.modelo.DatosIniciales;
+import co.edu.uniquindio.universidad.util.Reloj;
+import co.edu.uniquindio.universidad.util.RelojSistema;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
