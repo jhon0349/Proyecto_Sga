@@ -1,7 +1,7 @@
 package co.edu.uniquindio.universidad.modelo;
 
 
-import sga.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
 
 import java.io.Serializable;
 import java.time.Duration;
