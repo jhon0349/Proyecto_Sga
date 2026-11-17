@@ -12,9 +12,9 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.util.Pair;
-import sga.excepciones.ReglaNegocioException;
-import sga.modelo.*;
-import sga.util.Formato;
+import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.modelo.*;
+import co.edu.uniquindio.universidad.util.Formato;
 
 import java.io.File;
 import java.time.LocalDate;
