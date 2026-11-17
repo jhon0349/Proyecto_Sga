@@ -1,6 +1,6 @@
 package co.edu.uniquindio.universidad.servicio;
 
-import sga.modelo.*;
+import co.edu.uniquindio.universidad.modelo.*;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
