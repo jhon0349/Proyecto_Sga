@@ -8,9 +8,9 @@ import javafx.scene.control.Tooltip;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
-import sga.modelo.Apartamento;
-import sga.modelo.EstadoNoche;
-import sga.servicio.Sistema;
+import co.edu.uniquindio.universidad.modelo.Apartamento;
+import co.edu.uniquindio.universidad.modelo.EstadoNoche;
+import co.edu.uniquindio.universidad.servicio.Sistema;
 
 import java.time.LocalDate;
 import java.time.YearMonth;
