@@ -3,10 +3,10 @@ package co.edu.uniquindio.universidad.ui;
 import javafx.collections.FXCollections;
 import javafx.scene.Node;
 import javafx.scene.control.*;
-import sga.excepciones.ReglaNegocioException;
-import sga.modelo.*;
-import sga.servicio.Sistema;
-import sga.util.Formato;
+import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.modelo.*;
+import co.edu.uniquindio.universidad.servicio.Sistema;
+import co.edu.uniquindio.universidad.util.Formato;
 
 import java.util.ArrayList;
 import java.util.List;
