@@ -1,8 +1,8 @@
 package co.edu.uniquindio.universidad.servicio;
 
-import sga.excepciones.ReglaNegocioException;
-import sga.modelo.*;
-import sga.util.Reloj;
+import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.modelo.*;
+import co.edu.uniquindio.universidad.util.Reloj;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
