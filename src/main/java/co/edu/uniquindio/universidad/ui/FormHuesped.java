@@ -3,9 +3,9 @@ package co.edu.uniquindio.universidad.ui;
 import javafx.event.ActionEvent;
 import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;
-import sga.excepciones.ReglaNegocioException;
-import sga.modelo.Huesped;
-import sga.servicio.Sistema;
+import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.modelo.Huesped;
+import co.edu.uniquindio.universidad.servicio.Sistema;
 
 import java.util.Optional;
 
