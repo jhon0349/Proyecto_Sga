@@ -16,9 +16,9 @@ import javafx.scene.layout.Region;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.util.Duration;
-import sga.excepciones.ReglaNegocioException;
-import sga.modelo.*;
-import sga.servicio.Sistema;
+import co.edu.uniquindio.universidad.excepciones.ReglaNegocioException;
+import co.edu.uniquindio.universidad.modelo.*;
+import co.edu.uniquindio.universidad.servicio.Sistema;
 
 import java.nio.file.Path;
 
